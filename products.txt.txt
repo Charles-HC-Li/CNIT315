@@ -1,0 +1,10 @@
+1,Apple,50,Fruit
+2,Banana,100,Fruit
+3,Orange,80,Fruit
+4,Carrot,60,Vegetable
+5,Potato,200,Vegetable
+6,Tomato,150,Vegetable
+7,Chicken,50,Meat
+8,Beef,70,Meat
+9,Pork,80,Meat
+10,Fish,100,Seafood
